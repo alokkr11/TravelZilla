@@ -1,4 +1,4 @@
- # [TRAVELZILLA - Online Trip Management System]
+ # TRAVELZILLA - Online Trip Management System
    ![Logo](https://img.shields.io/github/last-commit/Shibshankar01/-quizzical-drink-5030)
    ![Logo](https://img.shields.io/github/languages/code-size/Shibshankar01/-quizzical-drink-5030)
    ![Logo](https://img.shields.io/github/contributors/Shibshankar01/-quizzical-drink-5030)
